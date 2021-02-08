@@ -1,3 +1,8 @@
 This is a book
+<<<<<<< HEAD
 yak non
 546321
+=======
+mai wai leaw
+123456
+>>>>>>> feature2
